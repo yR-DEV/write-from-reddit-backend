@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fiction_response: MyText
+  writer: one
+  writing_prompt: one
+
+two:
+  fiction_response: MyText
+  writer: two
+  writing_prompt: two
